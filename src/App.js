@@ -62,7 +62,7 @@ class App extends Component {
 
         <hr/>
 
-        <h1>{this.state.nessageß}</h1>
+        <h1>{this.state.message}</h1>
       </div>
     );
   }
